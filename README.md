@@ -14,7 +14,7 @@ Adding more colors into your Among Us game!
   - Gold
   - Mint
   - Lavender
-  - Night Blue
+  - Midnight Blue
   - Jungle Green
   - Light Pink
   - Panda
